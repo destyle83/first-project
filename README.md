@@ -12,3 +12,4 @@
 я  Вася
 
 >>>>>>> dde7d7d52714d266f6c4ac1d2b8ea4e67be64d55
+# как working go to
